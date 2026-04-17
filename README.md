@@ -43,4 +43,3 @@ foto.jpeg
 
 ---
 © 2026 Anyelo Hoyos Zapata. Todos los derechos reservados.
-© 2024 Anyelo Hoyos Zapata. Todos los derechos reservados.
